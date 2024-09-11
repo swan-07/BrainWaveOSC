@@ -2,7 +2,7 @@
 <control>
     <type>constant</type>
     <label>device</label>
-    <value>COM6</value>
+    <value>/dev/tty.HC-06</value>
 </control>
 <control>
     <type>constant</type>
